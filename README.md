@@ -5,7 +5,8 @@ I’m a dedicated software engineer who enjoys solving puzzles and getting to th
 
 - 🔭 I'm currently working on <a href="https://github.com/rachbohm/MyFitnessFriend" target="_blank">MyFitnessFriend</a>
 - 📫 You can reach me at rachbohm@gmail.com
-- 📄 View my <a href="https://drive.google.com/file/d/1TqX3OlCGuKKi520iy_cY0O-CZbBiBCeV/view?usp=sharing" target="_blank">resume</a>
+- 💼 Check out my <a href="https://rachelbohmbach.netlify.app/" target="_blank">Portfolio website</a>
+- 📄 View my <a href="https://drive.google.com/file/d/1vrTMK_p8ARVag0vNEKRHjQ4BV7wlFgT7/view?usp=sharing" target="_blank">resume</a>
 
 <!--
 **rachbohm/rachbohm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
